@@ -1,1 +1,1 @@
-# Practica1.6
+# Práctica 1.6
